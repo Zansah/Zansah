@@ -1,69 +1,43 @@
-I’m Zephaniah N. Ansah, a Computer Science student at William & Mary focused on data science, analytics, and software development. I have hands-on experience with Python, R, and data visualization, and I’ve built projects involving data analysis, automation, and modeling. My work emphasizes clean code, reproducible workflows, and problem-solving with data.
+# Hi, I'm Zephaniah N. Ansah 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Card</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f2f5;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+### 🎓 Computer Science Student at William & Mary  
+Focused on **Data Science, Analytics, and Software Development**.
 
-    .card {
-      background-color: white;
-      border-radius: 12px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-      padding: 20px;
-      max-width: 300px;
-      text-align: center;
-      transition: transform 0.2s;
-    }
+---
 
-    .card:hover {
-      transform: scale(1.05);
-    }
+### 🛠 Tech Stack
 
-    .card h2 {
-      margin: 0 0 10px;
-      font-size: 24px;
-      color: #333;
-    }
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-    .card p {
-      color: #666;
-      font-size: 16px;
-    }
+---
 
-    .card button {
-      margin-top: 15px;
-      padding: 10px 20px;
-      border: none;
-      background-color: #007bff;
-      color: white;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background-color 0.2s;
-    }
+### 💼 About Me
 
-    .card button:hover {
-      background-color: #0056b3;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h2>Data Card</h2>
-    <p>This is an example of a responsive card with hover effects using HTML and CSS.</p>
-    <button>Learn More</button>
-  </div>
-</body>
-</html>
+I build projects that leverage **Python, C++, and data visualization** to solve real-world problems and create reproducible workflows.
+
+---
+
+### 📊 GitHub Stats
+
+[![Zephaniah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zansah&theme=dark&show_icons=true&count_private=false)](https://github.com/zansah)  
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=zansah&theme=dark)](https://github.com/zansah)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zansah&theme=dark&layout=compact)](https://github.com/zansah)
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/zephaniah-ansah)  
+- [Portfolio](https://zansah.github.io/) 
+- [Email](mailto:zansah31@gmail.com)
+
+---
 
