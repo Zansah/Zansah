@@ -33,11 +33,4 @@ I build projects that leverage **Python, C++, and data visualization** to solve 
 
 ---
 
-### 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/zephaniah-ansah)  
-- [Portfolio](https://zansah.github.io/) 
-- [Email](mailto:zansah31@gmail.com)
-
----
 
