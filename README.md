@@ -21,7 +21,7 @@ Focused on **Data Science, Analytics, and Software Development**.
 
 ### 💼 About Me
 
-I build projects that leverage **Python, C++, and data visualization** to solve real-world problems and create reproducible workflows.
+I build projects that leverage **Python, R, and data visualization** to solve real-world problems and create reproducible workflows.
 
 ---
 
